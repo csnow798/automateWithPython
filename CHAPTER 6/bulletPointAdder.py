@@ -11,3 +11,6 @@ for i in range(len(lines)): # loop throuth all indexes in the "lines" list
 text='\n'.join(lines)
 pyperclip.copy(text)
 #print(text)
+
+
+
